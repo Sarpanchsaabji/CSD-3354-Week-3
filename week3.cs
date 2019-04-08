@@ -30,7 +30,9 @@ namespace ConsoleApp1
 			i++;
 		}
 	    Console.WriteLine("The sum of five number is {0}", sum);
-            Console.ReadLine();
+            Console.WriteLine("Application is working fine");
+		Console.ReadLine();
+		
         }
         
     }
